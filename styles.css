@@ -200,8 +200,8 @@ section {
     }
 
     aside {
-        padding-top: 5vh;
-        padding-bottom: 5vh;
+        padding-top: 3vh;
+        padding-bottom: 2vh;
     }
 
     .main-content {
@@ -214,6 +214,6 @@ section {
 
     .logo-bar {
         position: relative;
-        margin-top: 3vh;
+        margin-top: 1vh;
     }
 }
