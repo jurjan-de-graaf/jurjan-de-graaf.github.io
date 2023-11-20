@@ -187,6 +187,10 @@ section {
     padding: 0%;
 }
 
+#placeholder-text {
+    color: #00092e;
+}
+
 .flex-container {
     @media (min-width: 920px) {
         display: flex;
